@@ -1,10 +1,14 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I am a full stack developer. I spend most of my time on Linux writing software
+and contributing to open source. I'm a quick learner and enjoy learning
+anything related to computers and technology.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Want to hire me to do your next project?
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Send an email to <jobs@seanbehan.dev>
+
+Here is my [resume](https://gitlab.com/seanbehan/resume/raw/master/resume.pdf).
